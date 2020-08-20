@@ -49,8 +49,8 @@ static const char *const vehicle_names[] = {
         "Phantom",
 };
 
-#define TRACK_COUNT 4
-#define TRACK_OFFSET 4
+#define TRACK_COUNT 32
+#define TRACK_OFFSET 0
 
 static const char *const track_ids[] = {
         "08/1AE1A7D894960B38E09E7494373378D87305A163/00", // LC
